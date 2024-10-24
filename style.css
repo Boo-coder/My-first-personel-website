@@ -1,3 +1,35 @@
 body {
-    background: blue;
+    text-align: center;;
+    background-color: rgba(44, 108, 121, 0.394);
   }
+
+.header-link {
+    position: relative;
+    bottom: 140px;
+    left: 1500px;
+}
+
+img {
+    width: "150px";
+    height: "150px";
+    border-radius: 0 70px 0 70px;
+    text-align: center;
+}
+
+h3 {
+    background-color: rgb(186, 188, 189);
+}
+
+.project {
+    width: 200px;
+    height: 200px;
+    border:1px solid #cccc;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 200px;
+}
+
+nav ul li {
+    padding-left: 20px;
+}
